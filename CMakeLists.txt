@@ -10,3 +10,4 @@ if (POLICY CMP0141)
 endif()
 project ("RobotCalib")
 add_subdirectory ("IRB6700Calib")
+ 

@@ -7,7 +7,7 @@
           "CMAKE_C_COMPILER": "cl.exe",
           "CMAKE_CXX_COMPILER": "cl.exe",
           "CMAKE_TOOLCHAIN_FILE": {
-            "value": "F:/vcpkg-master/scripts/buildsystems/vcpkg.cmake",
+            "value": "D:/vcpkg-master/scripts/buildsystems/vcpkg.cmake",
             "type": "FILEPATH"
           }
         },
@@ -32,7 +32,7 @@
         "cacheVariables": {
           "CMAKE_BUILD_TYPE": "Debug",
           "CMAKE_TOOLCHAIN_FILE": {
-            "value": "F:/vcpkg-master/scripts/buildsystems/vcpkg.cmake",
+            "value": "D:/vcpkg-master/scripts/buildsystems/vcpkg.cmake",
             "type": "FILEPATH"
           }
         }

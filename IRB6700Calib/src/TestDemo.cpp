@@ -41,6 +41,8 @@ vector<double> CalcuPosErrorNorm(vector<vector<double>>compensatedMCPCParaVec, v
 
 void main()
 {
+	//qbs niu de 
+	int i = 0;
 	int trainingParasNum = 70;//训练参数个数
 	Matrix4d T = Matrix4d::Identity();
 	//tracker2base
